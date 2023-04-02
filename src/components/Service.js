@@ -14,7 +14,7 @@ const Service = () => {
                       <div className="col-lg-12 col-md-12 col-sm-12 col-12">
                         <div className="banner_content">
                           <h1>Our Services</h1>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                          <p>Simplify your payments with our comprehensive payment management tools, designed to help you streamline your payment processes and boost efficiency..</p>
                         </div>
                       </div>
                     </div>
@@ -39,7 +39,8 @@ const Service = () => {
                           </figure>
                           <div className="content">
                             <h3>Payment Management</h3>
-                            <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                            <p className="text-size-18">Our payment management tools make it easy for you to take control of your payments.
+                             With our user-friendly interface, you can streamline your payment process, increase efficiency, and save time</p>
                             <a href="/pricing" className="more">More</a>
                           </div>
                         </div>
@@ -51,7 +52,8 @@ const Service = () => {
                           </figure>
                           <div className="content">
                             <h3>Personal Dashboard</h3>
-                            <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                            <p className="text-size-18">Our customizable personal dashboard is designed to give you a real-time view of your money. 
+                            With detailed insights into your spending habits, transaction history, and account balances.</p>
                             <a href="/pricing" className="more">More</a>
                           </div>
                         </div>
@@ -63,7 +65,8 @@ const Service = () => {
                           </figure>
                           <div className="content">
                             <h3>Integrated Payments</h3>
-                            <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                            <p className="text-size-18">. Our integrated payment solutions make it easy for you to accept payments from customers around the world.
+                             With our secure and reliable system, you can process transactions quickly and efficiently.</p>
                             <a href="/pricing" className="more">More</a>
                           </div>
                         </div>
@@ -77,7 +80,8 @@ const Service = () => {
                           </figure>
                           <div className="content">
                             <h3>Business Tracking</h3>
-                            <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                            <p className="text-size-18">Our comprehensive tracking software is designed to simplify your business finances, giving you a
+                             detailed overview of your income and expenses. With customizable reports and real-time updates</p>
                             <a href="/pricing" className="more">More</a>
                           </div>
                         </div>
@@ -89,7 +93,8 @@ const Service = () => {
                           </figure>
                           <div className="content">
                             <h3>Credit &amp; Debit Card</h3>
-                            <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                            <p className="text-size-18">our top-quality credit and debit cards provide you with secure transactions anywhere. With advanced security features, fraud protection,
+                             and worldwide acceptance, you can rest assured that your money is always safe with us.</p>
                             <a href="/pricing" className="more">More</a>
                           </div>
                         </div>
@@ -101,7 +106,8 @@ const Service = () => {
                           </figure>
                           <div className="content">
                             <h3>Secure Payments</h3>
-                            <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                            <p className="text-size-18"> Our platform utilizes advanced security features and encryption 
+                            to keep your data safe from fraud and theft. Rest assured that your finances are secure with us.</p>
                             <a href="/pricing" className="more">More</a>
                           </div>
                         </div>
@@ -121,7 +127,7 @@ const Service = () => {
                       <div className="content">
                         <h6>Payment Gateway</h6>
                         <h2>The Best Solution for Accepting Online Payments</h2>
-                        <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaQuis ipsum suspendisse ultrices gravida.</p>
+                        <p className="text-size-18">treamline your business finances with our comprehensive business management tools, featuring detailed tracking, analytics,</p>
                       </div>
                     </div>
                   </div>
@@ -156,7 +162,7 @@ const Service = () => {
                     <div className="col-12">
                       <div className="subheading">
                         <h6>Benefits</h6>
-                        <h2>Benefits Using E-Wallet Repay for You</h2>
+                        <h2>Benefits Using Ravelmobile for You</h2>
                       </div>
                     </div>
                   </div>
@@ -186,7 +192,7 @@ const Service = () => {
                                 <img src="assets/images/happy-customer-icon.png" alt="" className="img-fluid" />
                               </figure> 
                               <h4>Pay Bill</h4>
-                              <p className="text-size-16 mb-0">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed.</p>
+                              <p className="text-size-16 mb-0">With Ravelmobile, you can easily pay your bills from anywhere in the World</p>
                             </div>   
                           </div>
                           <div className="col-lg-6 col-md-6 col-sm-6 col-12">
@@ -195,7 +201,8 @@ const Service = () => {
                                 <img src="assets/images/total-customers-icon.png" alt="" className="img-fluid" />
                               </figure>
                               <h4>Membership</h4>
-                              <p className="text-size-16">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed.</p>
+                              <p className="text-size-16">Gain access to a wide range of exclusive benefits,
+                               from personalized financial advice to expert investment services.</p>
                             </div>
                           </div>
                         </div>
@@ -207,7 +214,8 @@ const Service = () => {
                                   <img src="assets/images/happy-customer-icon.png" alt="" className="img-fluid" />
                                 </figure> 
                                 <h4>Withdraw</h4>
-                                <p className="text-size-16 mb-0">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed.</p>
+                                <p className="text-size-16 mb-0">Our debit and credit cards are accepted globally,
+                                 making it easy for you to withdraw cash in any currency.</p>
                               </div>
                             </div>
                             <div className="col-lg-6 col-md-6 col-sm-6 col-12">
@@ -216,7 +224,8 @@ const Service = () => {
                                   <img src="assets/images/total-customers-icon.png" alt="" className="img-fluid" />
                                 </figure> 
                                 <h4>Investment</h4>
-                                <p className="text-size-16 mb-0">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed.</p> 
+                                <p className="text-size-16 mb-0">Our team of financial experts will work with you to develop a 
+                                personalized investment strategy, based on your unique goals and risk tolerance. </p> 
                               </div>
                             </div>
                           </div>
@@ -240,8 +249,8 @@ const Service = () => {
                         </figure>
                         <h6>TESTIMONIAL</h6>
                         <h2>What Our Clients Said</h2>
-                        <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                        <div className="button"><a className="button-text text-size-16 text-decoration-none" href="single-post.html">More Testimonial</a></div>
+                        <p className="text-size-18">As a frequent traveler, I rely on Ravelmobile's international payment solutions to accept payments from customers all over the world. The seamless integration and advanced features make it easy for me to expand my business globally." - Rachel, International Merchant</p>
+                        <div className="button"><a className="button-text text-size-16 text-decoration-none" href="/">More Testimonial</a></div>
                       </div>
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12 col-12">
@@ -251,25 +260,26 @@ const Service = () => {
                             <div className="carousel-item active">
                               <div className="review_content">
                                 <img src="assets/images/team4.png" alt="" />
-                                <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscin elit, sed do eiusmod tempor incididunt ut labor et doloremagna aliquaquis.</p>
+                                <p className="text-size-18">I've been using Ravelmobile for years, and it's been a game-changer for managing my personal finances. The user-friendly interface and personalized dashboard make it easy for me to track my spending and plan for the future.</p>
                                 <h4 className="mb-0">Rebekah Gislason</h4>
-                                <span className="text-size-16">company.com</span>
+                                <span className="text-size-16">Personal Finance</span>
                               </div>
                             </div>
                             <div className="carousel-item">
                               <div className="review_content">
                                 <img src="assets/images/team5.png" alt="" />         
-                                <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscin elit, sed do eiusmod tempor incididunt ut labor et doloremagna aliquaquis.</p>
+                                <p className="text-size-18">Ravelmobile's payment management tools have made it easy for us to streamline our payment process and increase efficiency. Plus, the advanced security features ensure that our transactions are always safe and secure..</p>
                                 <h4 className="mb-0">Kevin Andred</h4>
-                                <span className="text-size-16">company.com</span>
+                                <span className="text-size-16">Business Owner</span>
                               </div>
                             </div>
                             <div className="carousel-item">
                               <div className="review_content">
                                 <img src="assets/images/team6.png" alt="" />         
-                                <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscin elit, sed do eiusmod tempor incididunt ut labor et doloremagna aliquaquis.</p>
+                                <p className="text-size-18">I love Ravelmobile's investment services - the expert advice and market insights have helped me make informed decisions and grow my wealth with confidence. Plus,
+                                 the personalized investment strategy has been tailored to my unique needs and goals</p>
                                 <h4 className="mb-0">Even White</h4>
-                                <span className="text-size-16">company.com</span>
+                                <span className="text-size-16">Investor</span>
                               </div>
                             </div>
                             <div className="pagination-outer">
