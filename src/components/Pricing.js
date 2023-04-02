@@ -14,7 +14,8 @@ const Pricing = () => {
             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
               <div className="banner_content">
                 <h1>Pricing Plan</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Our pricing is transparent and affordable, with a free basic plan and premium plans with additional features and benefits. We're committed to providing you with 
+                    the best value for your money, so you can manage your finances without breaking the bank. </p>
               </div>
             </div>
           </div>
@@ -200,36 +201,38 @@ const Pricing = () => {
                         <div className="accordion-card">
                           <div className="card-header" id="headingOne">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                              <h4>Where Can I Find More Information?</h4>
+                              <h4> What type of customer support does Ravelmobile offer?</h4>
                             </a>
                           </div>
                           <div id="collapseOne" className="collapse" aria-labelledby="headingOne">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">Ravelmobile offers expert customer support through a variety of channels, including phone, email, and chat. Our support team is available 24/7 to answer your questions and provide guidance, ensuring that you have a smooth experience using our platform.</p>
                             </div>
                           </div>
                         </div>
                         <div className="accordion-card">
                           <div className="card-header" id="headingTwo">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                              <h4>What Are Your Terms and Conditions?</h4>
+                              <h4>Does Ravelmobile offer investment services?</h4>
                             </a>
                           </div>
                           <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">Yes, Ravelmobile offers a range of investment services, including personalized investment strategies, market insights, and expert advice from our team of financial experts.
+                               We're committed to helping you grow your wealth and achieve your financial goals..</p>
                             </div>
                           </div>
                         </div>
                         <div className="accordion-card">
                           <div className="card-header" id="headingThree">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                              <h4>What Kinds of Payment Do You Accept?</h4>
+                              <h4>How do I sign up for Ravelmobile?</h4>
                             </a>
                           </div>
                           <div id="collapseThree" className="collapse" aria-labelledby="headingThree">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">You can sign up for Ravelmobile on our website or through our mobile app. 
+                              Simply provide your basic information, and you'll be ready to start managing your finances in no time.</p>
                             </div>
                           </div>
                         </div>
@@ -250,36 +253,39 @@ const Pricing = () => {
                         <div className="accordion-card">
                           <div className="card-header" id="headingFour">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                              <h4>Where Can I Find More Information?</h4>
+                              <h4>What is Ravelmobile?</h4>
                             </a>
                           </div>
                           <div id="collapseFour" className="collapse" aria-labelledby="headingFour">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">Ravelmobile is a comprehensive fintech platform that provides a range of financial tools and resources to help
+                               you manage your finances, grow your wealth, and achieve your financial goals.</p>
                             </div>
                           </div>
                         </div>
                         <div className="accordion-card">
                           <div className="card-header" id="headingFive">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                              <h4>What Are Your Terms and Conditions?</h4>
+                              <h4> Is Ravelmobile secure?</h4>
                             </a>
                           </div>
                           <div id="collapseFive" className="collapse" aria-labelledby="headingFive">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">Yes, Ravelmobile is committed to providing advanced security features and encryption to keep your data safe from fraud and theft. We use the
+                               latest technology and best practices to ensure that your finances are always secure..</p>
                             </div>
                           </div>
                         </div>
                         <div className="accordion-card">
                           <div className="card-header" id="headingSix">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                              <h4>What Kinds of Payment Do You Accept?</h4>
+                              <h4>What types of payments can I make with Ravelmobile?</h4>
                             </a>
                           </div>
                           <div id="collapseSix" className="collapse" aria-labelledby="headingSix">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">With Ravelmobile, you can make a wide range of payments, including bill payments, international payments, and person-to-person transfers.
+                               Our payment management tools make it easy for you to manage your payments from one centralized platform..</p>
                             </div>
                           </div>
                         </div>

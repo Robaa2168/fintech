@@ -13,7 +13,7 @@ const Contact = () => {
             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
               <div className="banner_content">
                 <h1>Contact Us</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Experience the power of a large and thriving fintech ecosystem, connecting you with the resources and people you need to achieve your financial goals.</p>
               </div>
             </div>
           </div>
@@ -32,7 +32,7 @@ const Contact = () => {
         <div className="row position-relative">
           <div className="col-12">
             <div className="content">
-              <h6>Let's Contact Us</h6>
+              <h6>Let's Contact</h6>
               <h2>Get in Touch with Us</h2>
               <figure className="element3 mb-0">
                 <img src="assets/images/what-we-do-element.png" alt="" className="img-fluid" />
@@ -71,7 +71,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="manage-button text-center">
-                  <button type="submit" className="submit">Submit</button>
+                  <button type="submit" className="submit" disabled>Submit</button>
                 </div>
               </form>
             </div>
@@ -88,7 +88,8 @@ const Contact = () => {
             <div className="content" data-aos="fade-right">
               <h6>NEED MORE HELP?</h6>
               <h2>Leading, Trusted. Enabling growth.</h2>
-              <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididuntabore et dolore aliquaQuis ipsum suspe.</p>
+              <p className="text-size-18">Join a global network of investors and businesses 
+              and take advantage of the opportunities that come with being part of a large community.</p>
             </div>
           </div>
         </div>
@@ -99,7 +100,7 @@ const Contact = () => {
                 <img src="assets/images/need-sales-icon.png" alt="" className="img-fluid" />
               </figure>
               <h3>Sales</h3>
-              <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed</p>
+              <p className="text-size-18">Maximize your sales potential with our fintech platform. </p>
               <a href="/contact" className="btn">Contact Sales</a>
             </div>
           </div>
@@ -112,7 +113,7 @@ const Contact = () => {
                 <img src="assets/images/need-more-icon2.png" alt="" className="img-fluid" />
               </figure>
               <h3>Help &amp; Support</h3>
-              <p className="text-size-18">Labore et dolore magna aliqua quis ipsum suspendisse ultrices</p>
+              <p className="text-size-18">We're available around the clock to answer your questions </p>
               <a href="/contact" className="btn">Get Support</a>
             </div>
           </div>
@@ -125,7 +126,7 @@ const Contact = () => {
                 <img src="assets/images/need-more-icon-3.png" alt="" className="img-fluid" />
               </figure>
               <h3>Article &amp; News</h3>
-              <p className="text-size-18">viverra maecenas accumsan lacus vel facili sis consectetur adipiscing</p>
+              <p className="text-size-18">Stay informed about the latest news and trends in finance with our curated articles </p>
               <a href="/contact" className="btn">Read Article</a>
             </div>
           </div>
