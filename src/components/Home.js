@@ -19,7 +19,8 @@ function Banner() {
                             <div className="banner" data-aos="fade-right">
                                 <h6>Simple. Transparent. Secure </h6>
                                 <h1>The Smart Way for<span>Online Payment</span> Solution.</h1>
-                                <p className="banner-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                                <p className="banner-text">Create an account and instantly start accepting payments, selling your 
+                                beautiful products online and building financial tools.</p>
                                 <div className="button"><a className="button_text" href="sign-up.html">Open a Free Account</a></div>
                             </div>
                         </div>
@@ -63,7 +64,7 @@ function Banner() {
                                     <img src="assets/images/what-we-do-credit-debit-icon.png" alt="" className="img-fluid" />
                                 </figure>
                                 <h3>Payment Solution</h3>
-                                <p className="mb-0 text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                <p className="mb-0 text-size-18">Easily receive money from anyone, anywhere in the world.</p>
                             </div>
                         </div>
                         <figure className="arrow1 mb-0" data-aos="fade-down">
@@ -75,7 +76,7 @@ function Banner() {
                                     <img src="assets/images/what-we-do-growth--icon.png" alt="" className="img-fluid" />
                                 </figure>
                                 <h3>Growth Business</h3>
-                                <p className="mb-0 text-size-18">Labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida risus commo ddolore magnao.</p>
+                                <p className="mb-0 text-size-18">It's not the size of the company, it's the size of the ambition. Ambitious businesses of all sizes count on Ravelmobile to grow their business everywhere..</p>
                             </div>
                         </div>
                         <figure className="arrow2 mb-0" data-aos="fade-up">
@@ -87,7 +88,7 @@ function Banner() {
                                     <img src="assets/images/what-we-do-connected-people-icon.png" alt="" className="img-fluid" />
                                 </figure>
                                 <h3>Connected People</h3>
-                                <p className="mb-0 text-size-18">viverra maecenas accumsan lacus vel facili sis consectetur adipiscing mae-cenelit seiscingsd.</p>
+                                <p className="mb-0 text-size-18">Our fintech platform connects you with people in the finance industry, allowing you to network and build relationships.</p>
                             </div>
                         </div>
                         <figure className="element3 mb-0">
@@ -159,10 +160,9 @@ function Banner() {
                         </div>
                         <div className="col-lg-6 col-md-6 col-sm-12 col-12">
                             <div className="about-content" data-aos="fade-up">
-                                <h6>ABOUT REPAY</h6>
+                                <h6>ABOUT Ravel-MOBILE</h6>
                                 <h2>We Have The Most Users All Over The World</h2>
-                                <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
-                                <p className="text-size-18 text">magna aliquaQuis ipsum suspendisse ultrices gravida. Risus com- modo viverra maecenas.</p>
+                                <p className="text-size-18">With millions of users worldwide, we're the go-to platform for managing your money.</p>
                                 <div className="right-lower">
                                     <figure className="mb-0 icon">
                                         <img src="assets/images/happy-customer-icon.png" alt="" className="img-fluid" />
@@ -214,7 +214,8 @@ function Banner() {
                                     </figure>
                                     <div className="content">
                                         <h3>Payment Management</h3>
-                                        <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                        <p className="text-size-18">Take control of your payments with our easy-to-use payment management tools. 
+                                        Streamline your payment process and increase efficiency today!</p>
                                         <a href="/pricing" className="more">More</a>
                                     </div>
                                 </div>
@@ -226,7 +227,8 @@ function Banner() {
                                     </figure>
                                     <div className="content">
                                         <h3>Personal Dashboard</h3>
-                                        <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                        <p className="text-size-18">Keep an eye on your finances with our personalized dashboard. Get a real-time
+                                         view of your money and make informed decisions with ease.</p>
                                         <a href="/pricing" className="more">More</a>
                                     </div>
                                 </div>
@@ -238,7 +240,7 @@ function Banner() {
                                     </figure>
                                     <div className="content">
                                         <h3>Integrated Payments</h3>
-                                        <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                        <p className="text-size-18">Accept payments seamlessly with our integrated payment solutions. Say goodbye to complicated payment methods and hello to more sales</p>
                                         <a href="/pricing" className="more">More</a>
                                     </div>
                                 </div>
@@ -252,7 +254,8 @@ function Banner() {
                                     </figure>
                                     <div className="content">
                                         <h3>Business Tracking</h3>
-                                        <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                        <p className="text-size-18"> Keep track of your business finances effortlessly with our comprehensive tracking software. 
+                                        Get a detailed overview of your business finances at a glance.</p>
                                         <a href="/pricing" className="more">More</a>
                                     </div>
                                 </div>
@@ -269,7 +272,8 @@ function Banner() {
                                     </figure>
                                     <div className="content">
                                         <h3>Credit &amp; Debit Card</h3>
-                                        <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                        <p className="text-size-18">Whether you're making a purchase online or in-store, our top-quality credit and debit cards provide you with secure transactions anywhere. With advanced security features, fraud protection, and worldwide acceptance,
+                                         </p>
                                         <a href="/pricing" className="more">More</a>
                                     </div>
                                 </div>
@@ -298,7 +302,7 @@ function Banner() {
                                         <div className="col-lg-10 col-md-10 col-sm-12 col-12">
                                             <div className="content">
                                                 <h4>User Friendly</h4>
-                                                <p className="text-size-16 text">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+                                                <p className="text-size-16 text">Our fintech platform is designed to be user-friendly, with an intuitive interface that makes it easy to manage your finances. Access all the tools you need effortlessly and take control of your finances with ease.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -313,7 +317,7 @@ function Banner() {
                                         <div className="col-lg-10 col-md-10 col-sm-12 col-12">
                                             <div className="content">
                                                 <h4>Best Support</h4>
-                                                <p className="text-size-16">Sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt Lorem ipsum dolor sit ametcon.</p>
+                                                <p className="text-size-16">Get the best support when managing your finances with our expert team. We're available around the clock to answer your questions and provide guidance, ensuring you have a smooth experience using our fintech platform.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -328,7 +332,8 @@ function Banner() {
                                         <div className="col-lg-10 col-md-10 col-sm-12 col-12">
                                             <div className="content">
                                                 <h4>Secure</h4>
-                                                <p className="text-size-16">Adipiscing elit sed do eiusmod tempor in cididod temunt. Lorem ipsum dolor sit ametcon sec tetur.</p>
+                                                <p className="text-size-16">Your financial security is our top priority. Our platform utilizes advanced security features and encryption to keep your data safe from fraud and theft. 
+                                                Rest assured that your finances are secure with us..</p>
                                             </div>
                                         </div>
                                     </div>
@@ -533,7 +538,7 @@ function Banner() {
                                     <img src="assets/images/need-sales-icon.png" alt="" className="img-fluid" />
                                 </figure>
                                 <h3>Sales</h3>
-                                <p className="text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed</p>
+                                <p className="text-size-18">Maximize your sales potential with our fintech platform. </p>
                                 <a href="/contact" className="btn">Contact Sales</a>
                             </div>
                         </div>
@@ -546,7 +551,7 @@ function Banner() {
                                     <img src="assets/images/need-more-icon2.png" alt="" className="img-fluid" />
                                 </figure>
                                 <h3>Help &amp; Support</h3>
-                                <p className="text-size-18">Labore et dolore magna aliqua quis ipsum suspendisse ultrices</p>
+                                <p className="text-size-18">We're available around the clock to answer your questions and provide guidance</p>
                                 <a href="/contact" className="btn">Get Support</a>
                             </div>
                         </div>
@@ -559,7 +564,7 @@ function Banner() {
                                     <img src="assets/images/need-more-icon-3.png" alt="" className="img-fluid" />
                                 </figure>
                                 <h3>Article &amp; News</h3>
-                                <p className="text-size-18">viverra maecenas accumsan lacus vel facili sis consectetur adipiscing</p>
+                                <p className="text-size-18">Stay informed about the latest news and trends in finance with our curated articles and news section. </p>
                                 <a href="/contact" className="btn">Read Article</a>
                             </div>
                         </div>
@@ -619,7 +624,7 @@ function Banner() {
                                         <img src="assets/images/footer-logo.png" className="img-fluid" alt="" />
                                     </figure>
                                 </a>
-                                <p className="text-size-16 footer-text">Lorem ipsum dolor sit amet, consectetur adipisc ing elitsed do eiusmod tempororem ipsum dolor sit am econsect ametconsectetetur.</p>
+                                <p className="text-size-16 footer-text">Take your financial journey to the next level with Ravelmobile - the ultimate fintech platform.</p>
                                 <figure className="mb-0 payment-icon">
                                     <img src="assets/images/payment-card.png" className="img-fluid" alt="" />
                                 </figure>
@@ -628,7 +633,7 @@ function Banner() {
                             </div>
                             <div className="col-lg-2 col-md-3 col-sm-12 col-12 d-md-block d-none">
                                 <div className="links">
-                                    <h4 className="heading">Important Link</h4>
+                                    <h4 className="heading">Important Links</h4>
                                     <hr className="line" />
                                     <ul className="list-unstyled mb-0">
                                         <li><a href="i/" className=" text-size-16 text text-decoration-none">Home</a></li>

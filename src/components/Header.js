@@ -20,16 +20,16 @@ const Header = () => {
                                 <ul className="mb-0 list-unstyled">
                                     <li>Follow us on:</li>
                                     <li>
-                                        <a href="#"><i className="fa-brands fa-facebook-f" /></a>
+                                        <a href="/"><i className="fa-brands fa-facebook-f" /></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i className="fa-brands fa-twitter" /></a>
+                                        <a href="/"><i className="fa-brands fa-twitter" /></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i className="fa-brands fa-pinterest-p" /></a>
+                                        <a href="/"><i className="fa-brands fa-pinterest-p" /></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i className="fa-brands fa-instagram" /></a>
+                                        <a href="/"><i className="fa-brands fa-instagram" /></a>
                                     </li>
                                 </ul>
                             </div>
