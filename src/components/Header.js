@@ -12,7 +12,7 @@ const Header = () => {
                                 <figure className="mb-0 emailicon">
                                     <img src="assets/images/header-emailicon.png" alt="" className="img-fluid" />
                                 </figure>
-                                <a href="mailto:support@repay.com" className="mb-0 text-size-16 text-white">support@repay.com</a>
+                                <a href="mailto:support@ravelmobile.com" className="mb-0 text-size-16 text-white">support@ravelmobile.com</a>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-6 sol-sm-12 d-md-block d-none">

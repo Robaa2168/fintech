@@ -14,7 +14,7 @@ const About = () => {
             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
               <div className="banner_content">
                 <h1>About Us</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p> We're committed to providing you with the best value for your money.</p>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@ const About = () => {
                 <img src="assets/images/vision-icon.png" alt="" className="img-fluid" />
               </figure>
               <h3>Our Vision</h3>
-              <p className="mb-0 text-size-18">Lorem ipsum dolor sit ametcon sec tetur adipiscing elit sed do eiusmod tempor in cididod temunt.</p>
+              <p className="mb-0 text-size-18">our vision is to empower individuals and businesses around the world to take control of their finances and achieve their financial goals. </p>
             </div>
           </div>
           <figure className="arrow1 mb-0" data-aos="fade-down">
@@ -57,7 +57,7 @@ const About = () => {
                 <img src="assets/images/mission-icon.png" alt="" className="img-fluid" />
               </figure>
               <h3>Our Mission</h3>
-              <p className="mb-0 text-size-18">Labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida risus commo ddolore magnao.</p>
+              <p className="mb-0 text-size-18">Our mission is to be the ultimate fintech platform, providing a comprehensive suite of tools and resources to help our clients manage their finances with ease. </p>
             </div>
           </div>
           <figure className="arrow2 mb-0" data-aos="fade-up">
@@ -69,7 +69,7 @@ const About = () => {
                 <img src="assets/images/strategyicon.png" alt="" className="img-fluid" />
               </figure>
               <h3>Strategy</h3>
-              <p className="mb-0 text-size-18">viverra maecenas accumsan lacus vel facili sis consectetur adipiscing mae-cenelit seiscingsd.</p>
+              <p className="mb-0 text-size-18">our strategy is focused on providing innovative solutions and personalized support to our clients.</p>
             </div>
           </div>
           <figure className="element3 mb-0">
@@ -81,63 +81,7 @@ const About = () => {
         </figure>
       </div>
     </section>
-    {/*About Repay*/}
-    <section className="about-repay repay-section">
-      <div className="container">
-        <div className="row">
-          <div className="col-lg-6 col-md-6 col-sm-12 col-12">
-            <div className="about-wrapper">
-              <figure className="circle mb-0">
-                <img src="assets/images/image-2-bg.png" alt="" />
-              </figure>
-              <div className="position-relative">
-                <a className="popup-vimeo" href="https://video-previews.elements.envatousercontent.com/h264-video-previews/d1c81f1e-849f-4d45-ae57-b61c2f5db34a/25628048.mp4">
-                  <figure className="mb-0 videobutton">
-                    <img className="thumb img-fluid" style={{cursor: 'pointer'}} src="assets/images/play-button.png" alt="" />
-                  </figure>
-                </a>
-              </div>
-              <figure className="image mb-0">
-                <img src="assets/images/image-2.png" alt="" className="img-fluid" />
-              </figure>
-              <figure className="homeelement mb-0">
-                <img src="assets/images/homeelement.png" alt="" className="img-fluid" />
-              </figure>
-              <figure className="homeelement1 mb-0">
-                <img src="assets/images/homeelement.png" alt="" className="img-fluid" />
-              </figure>
-            </div>
-          </div>
-          <div className="col-lg-6 col-md-6 col-sm-12 col-12">
-            <div className="about-content" data-aos="fade-up">
-              <h6>ABOUT REPAY</h6>
-              <h2>We Have The Most Users All Over The World</h2>
-              <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
-              <p className="text-size-18 text">magna aliquaQuis ipsum suspendisse ultrices gravida. Risus com- modo viverra maecenas.</p>
-              <div className="right-lower">
-                <figure className="mb-0 icon">
-                  <img src="assets/images/happy-customer-icon.png" alt="" className="img-fluid" />
-                </figure>
-                <div className="content">
-                  <span>55k+</span>
-                  <h4 className="mb-0">Happy Customers</h4>
-                </div>
-                <figure className="mb-0 icon">
-                  <img src="assets/images/total-customers-icon.png" alt="" className="img-fluid" />
-                </figure>
-                <div className="content content1">
-                  <span>$249M+</span>
-                  <h4 className="mb-0">Total Transections</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <figure className="mb-0 about-repaylayer">
-        <img src="assets/images/about-repaylayer.png" alt="" className="img-fluid" />
-      </figure>
-    </section>
+
     {/*How we Work*/}
     <section className="work-section position-relative">
       <div className="container">
@@ -149,7 +93,7 @@ const About = () => {
             <div className="work-content" data-aos="fade-right">
               <h6>How we work</h6>
               <h2>Four Quick Steps To Use Our Services</h2>
-              <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <p className="text-size-18"></p>
               <div className="content">
                 <ul className="list-unstyled mb-0">
                   <li className="h4">Download App</li>
@@ -208,36 +152,39 @@ const About = () => {
                         <div className="accordion-card">
                           <div className="card-header" id="headingOne">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                              <h4>Where Can I Find More Information?</h4>
+                              <h4>What is Ravelmobile?</h4>
                             </a>
                           </div>
                           <div id="collapseOne" className="collapse" aria-labelledby="headingOne">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0"> Ravelmobile is a comprehensive fintech platform that provides a range of financial tools and resources
+                               to help you manage your finances, grow your wealth, and achieve your financial goals.</p>
                             </div>
                           </div>
                         </div>
                         <div className="accordion-card">
                           <div className="card-header" id="headingTwo">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                              <h4>What Are Your Terms and Conditions?</h4>
+                              <h4> Is Ravelmobile secure?</h4>
                             </a>
                           </div>
                           <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">Yes, Ravelmobile is committed to providing advanced security features and encryption to keep your data safe from fraud and theft.
+                               We use the latest technology and best practices to ensure that your finances are always secure.</p>
                             </div>
                           </div>
                         </div>
                         <div className="accordion-card for-space">
                           <div className="card-header" id="headingThree">
                             <a href="#" className="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                              <h4>What Kinds of Payment Do You Accept?</h4>
+                              <h4>How do I sign up for Ravelmobile?</h4>
                             </a>
                           </div>
                           <div id="collapseThree" className="collapse" aria-labelledby="headingThree">
                             <div className="card-body">
-                              <p className="text-size-16 text-left mb-0 p-0">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+                              <p className="text-size-16 text-left mb-0 p-0">You can sign up for Ravelmobile on our website or through our mobile app. Simply provide your 
+                              basic information, and you'll be ready to start managing your finances in no time.</p>
                             </div>
                           </div>
                         </div>
@@ -254,23 +201,23 @@ const About = () => {
             <div className="accordion-content">
               <h6>frequently asked questions</h6>
               <h2>General Questions</h2>
-              <p className="text-size-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+              <p className="text-size-18">Understand Ravelmobile Better</p>
               <h3>Tips &amp; Information</h3>
-              <p className="text-size-16">Labore et dolore magna aliqua quis ipsum suspendis seultrices gravida risus commo ddolore.</p>
+              <p className="text-size-16">Get valuable insights and advice on managing your finances, growing your wealth</p>
               <div className="right-lower" data-aos="fade-right">
                 <figure className="mb-0 icon">
                   <img src="assets/images/emailicon.png" alt="" className="img-fluid" />
                 </figure>
                 <div className="content">
                   <span className="text-size-18">Email Address</span>
-                  <h4 className="mb-0">support@repay.com</h4>
+                  <h4 className="mb-0">support@ravelmobile.com</h4>
                 </div>
                 <figure className="mb-0 icon">
                   <img src="assets/images/total-customers-icon.png" alt="" className="img-fluid" />
                 </figure>
                 <div className="content content1">
                   <span className="text-size-18">Phone Number</span>
-                  <h4 className="mb-0">+1 234 567 89 00</h4>
+                  <h4 className="mb-0">**</h4>
                 </div>
               </div>
             </div>
