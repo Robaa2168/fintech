@@ -138,7 +138,7 @@ const Header = () => {
                   <NavLink className="nav-link" to="/about">About</NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink className="nav-link" href="https://ravelmobile.com">
+                  <NavLink className="nav-link" href="https://global.ravelmobile.com">
                     <i className="fa-solid fa-user-lock"></i>Account
                   </NavLink>
                 </li>
