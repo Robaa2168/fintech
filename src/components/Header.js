@@ -90,24 +90,24 @@ const Header = () => {
               </figure>
             </NavLink>
             <button
-      className="navbar-toggler"
-      type="button"
-      onClick={toggleNav}
-    >
-      {isNavCollapsed ? (
-        <svg viewBox="0 0 24 24" width="24" height="24" fill="#000000">
-          <path d="M3,18h18v-2H3V18z M3,13h18v-2H3V13z M3,8h18V6H3V8z" />
-        </svg>
-      ) : (
-        <svg viewBox="0 0 24 24" width="24" height="24" fill="#000000">
-          <path d="M19,18H5v-2h14V18z M19,13H5v-2h14V13z M5,8v2h14V8H5z" />
-        </svg>
-      )}
-    </button>
-    <div
-      ref={navRef}
-      className={`navbar-collapse ${isNavCollapsed ? 'collapse' : ''}`}
-    >
+              className="navbar-toggler"
+              type="button"
+              onClick={toggleNav}
+            >
+              {isNavCollapsed ? (
+                <svg viewBox="0 0 24 24" width="24" height="24" fill="#000000">
+                  <path d="M3,18h18v-2H3V18z M3,13h18v-2H3V13z M3,8h18V6H3V8z" />
+                </svg>
+              ) : (
+                <svg viewBox="0 0 24 24" width="24" height="24" fill="#000000">
+                  <path d="M19,18H5v-2h14V18z M19,13H5v-2h14V13z M5,8v2h14V8H5z" />
+                </svg>
+              )}
+            </button>
+            <div
+              ref={navRef}
+              className={`navbar-collapse ${isNavCollapsed ? 'collapse' : ''}`}
+            >
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item active">
                   <NavLink className="nav-link" to="/">
@@ -133,20 +133,23 @@ const Header = () => {
                   <NavLink className="nav-link" to="/faq">
                     FAQ
                   </NavLink>
-                  </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/about">About</NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/sign-up"><i className="fa-solid fa-user-lock"></i>Account</NavLink>
-              </li>
-            </ul>
-          </div>
-        </nav>
-      </div>
-    </header>
-  </>
-);
+                </li>
+                <li className="nav-item">
+                  <NavLink className="nav-link" to="/about">About</NavLink>
+                </li>
+                <li className="nav-item">
+                  <NavLink className="nav-link" href="https://ravelmobile.com">
+                    <i className="fa-solid fa-user-lock"></i>Account
+                  </NavLink>
+                </li>
+
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </header>
+    </>
+  );
 };
 
 export default Header;

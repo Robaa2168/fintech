@@ -664,9 +664,8 @@ function Banner() {
                                     <h4 className="heading">Get in Touch</h4>
                                     <hr className="line" />
                                     <ul className="list-unstyled mb-0">
-                                        <li className="text-size-16 text">Email: <a href="mailto:info@repay.com" className="mb-0 text text-decoration-none text-size-16">info@repay.com</a></li>
-                                        <li className="text-size-16 text">Phone: <a href="tel:+4733378901" className="mb-0 text text-decoration-none text-size-16">+1 234 567 89 0 0</a></li>
-                                        <li className="text-size-16 text1">Fax: <a href="tel:+198765432199" className="mb-0 text text-decoration-none text-size-16">+1 (987) 654 321 9 9</a></li>
+                                        <li className="text-size-16 text">Email: <a href="mailto:info@repay.com" className="mb-0 text text-decoration-none text-size-16">support@ravelmobile.com</a></li>
+                                        <li className="text-size-16 text">Phone: <a href="tel:+4733378901" className="mb-0 text text-decoration-none text-size-16">+1 323 544 7101 </a></li>
                                         <li className="social-icons">
                                             <div className="circle"><a href="#"><i className="fa-brands fa-facebook-f" /></a></div>
                                             <div className="circle"><a href="#"><i className="fa-brands fa-twitter" /></a></div>
