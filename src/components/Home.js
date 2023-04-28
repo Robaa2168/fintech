@@ -21,7 +21,8 @@ function Banner() {
                                 <h1>The Smart Way for<span>Online Payment</span> Solution.</h1>
                                 <p className="banner-text">Create an account and instantly start accepting payments, selling your 
                                 beautiful products online and building financial tools.</p>
-                                <div className="button"><a className="button_text" href="sign-up.html">Open a Free Account</a></div>
+                                <div class="button"><a class="button_text" href="https://global.ravelmobile.com">Open a Free Account</a></div>
+
                             </div>
                         </div>
                         <div className=" col-lg-7 col-md-7 col-sm-12">
@@ -105,9 +106,10 @@ function Banner() {
                                         <img src="assets/images/what-we-do-personal-account-icon.png" className="img-fluid" alt="" />
                                     </figure>
                                 </div>
-                                <div className="heading">
-                                    <h3 className="mb-0">PERSONAL ACCOUNT</h3>
-                                </div>
+                                <div class="heading">
+    <h3 class="mb-0"><a href="https://global.ravelmobile.com">PERSONAL ACCOUNT</a></h3>
+</div>
+
                             </div>
                         </div>
                         <div className="col-lg-5 col-md-5 col-sm-12 col-12">
