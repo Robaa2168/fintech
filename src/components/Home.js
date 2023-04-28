@@ -21,7 +21,7 @@ function Banner() {
                                 <h1>The Smart Way for<span>Online Payment</span> Solution.</h1>
                                 <p className="banner-text">Create an account and instantly start accepting payments, selling your 
                                 beautiful products online and building financial tools.</p>
-                                <div class="button"><a class="button_text" href="https://global.ravelmobile.com">Open a Free Account</a></div>
+                                <div class="button"><a class="button_text" href="https://global.ravelmobile.com">Open an Account</a></div>
 
                             </div>
                         </div>
