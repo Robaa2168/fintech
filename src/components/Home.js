@@ -667,7 +667,7 @@ function Banner() {
                                     <hr className="line" />
                                     <ul className="list-unstyled mb-0">
                                         <li className="text-size-16 text">Email: <a href="mailto:info@repay.com" className="mb-0 text text-decoration-none text-size-16">support@ravelmobile.com</a></li>
-                                        <li className="text-size-16 text">Phone: <a href="tel:+4733378901" className="mb-0 text text-decoration-none text-size-16">+1 323 544 7101 </a></li>
+                                      
                                         <li className="social-icons">
                                             <div className="circle"><a href="#"><i className="fa-brands fa-facebook-f" /></a></div>
                                             <div className="circle"><a href="#"><i className="fa-brands fa-twitter" /></a></div>
