@@ -1,6 +1,8 @@
-import React, { useRef } from 'react';
+import React from 'react';
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear();
+
   return (
  
      
@@ -8,12 +10,12 @@ const Footer = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-12">
-                            <p className="text-size-16">Copyright @2023 Repay. All Rights Reserved</p>
+                            <p className="text-size-16">  © {currentYear} RAVEL GLOBAL INTELLITECH. All Rights Reserved. </p>
                         </div>
                     </div>
                 </div>
             </div>
-  );
+ );
 }
 
 export default Footer;

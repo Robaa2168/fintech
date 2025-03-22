@@ -80,15 +80,20 @@ const Header = () => {
       <header className="header">
         <div className="container">
           <nav className="navbar position-relative navbar-expand-lg navbar-light">
-            <NavLink className="navbar-brand" to="/">
-              <figure className="mb-0">
-                <img
-                  src="assets/images/banner-logo.png"
-                  alt=""
-                  className="img-fluid"
-                />
-              </figure>
-            </NavLink>
+          <NavLink className="navbar-brand" to="/">
+  <span className="fw-bold" style={{
+    background: 'linear-gradient(45deg, #6a11ff, #2575fc)',
+    WebkitBackgroundClip: 'text',
+    backgroundClip: 'text',
+    color: 'transparent',
+    fontSize: '2rem',
+    fontFamily: "'Poppins', sans-serif",
+    fontWeight: 700,
+    letterSpacing: '-0.5px'
+  }}>
+    Ravel
+  </span>
+</NavLink>
             <button
               className="navbar-toggler"
               type="button"
