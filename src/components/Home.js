@@ -607,11 +607,33 @@ function Banner() {
                     <div className="middle-portion">
                         <div className="row">
                             <div className="col-lg-4 col-md-5 col-sm-6 col-12">
-                                <a href="/">
-                                    <figure className="footer-logo">
-                                        <img src="assets/images/footer-logo.png" className="img-fluid" alt="RAVEL GLOBAL INTELLITECH" />
-                                    </figure>
-                                </a>
+                            <a href="/" className="logo-link" aria-label="RAVEL GLOBAL Home">
+  <span className="d-inline-block" style={{
+    background: 'linear-gradient(135deg, #2575fc 0%, #6a11ff 100%)',
+    WebkitBackgroundClip: 'text',
+    backgroundClip: 'text',
+    color: 'transparent',
+    fontFamily: "'Poppins', sans-serif",
+    fontWeight: 700,
+    fontSize: '1.8rem',
+    lineHeight: 1.2,
+    letterSpacing: '-0.03em'
+  }}>
+    RAVEL
+    <span style={{
+      display: 'block',
+      fontSize: '0.9rem',
+      fontWeight: 500,
+      letterSpacing: '0.1em',
+      textTransform: 'uppercase',
+      background: 'linear-gradient(135deg, #6a11ff 0%, #2575fc 100%)',
+      WebkitBackgroundClip: 'text',
+      backgroundClip: 'text'
+    }}>
+      GLOBAL
+    </span>
+  </span>
+</a>
                                 <p className="text-size-16 footer-text">Registration Number: BN-ZMCVPR5K<br />
                                 Transforming businesses through innovative technology solutions since 2015.</p>
                                 <div className="certifications d-flex justify-content-center gap-3">
